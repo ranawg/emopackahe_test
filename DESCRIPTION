@@ -1,0 +1,18 @@
+Package: emopkg
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Rana",
+           family = "Gahwagy",
+           role = c("aut", "cre"),
+           email = "rgahwagy@smith.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 2.10)
+Imports: 
+    crayon,
+    emo
+RoxygenNote: 6.1.1
