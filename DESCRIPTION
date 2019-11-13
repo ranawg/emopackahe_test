@@ -1,4 +1,4 @@
-Package: emopkg
+\Package: emopkg
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
@@ -15,4 +15,6 @@ Depends: R (>= 2.10)
 Imports: 
     crayon,
     emo
+Remotes: 
+emo
 RoxygenNote: 6.1.1
